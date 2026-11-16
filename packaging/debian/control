@@ -1,0 +1,9 @@
+Package: lh-auto-remediation
+Version: 0.1.0
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: Sameer Tawade <ops@logihertz.com>
+Homepage: https://www.logihertz.com
+Description: lh-remediate - Cryptographic Patch Verification Digest & Synthesized AST Transform
+ Automated DevSecOps configuration remediation engine consuming SARIF v2.1.0 and JSON security findings to synthesize deterministic, SHA-256 pre-image verified unified diffs and hardening patches.
